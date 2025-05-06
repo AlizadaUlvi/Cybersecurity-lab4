@@ -15,8 +15,9 @@
 
       a.Review vulnerabilities
       
-      1.Open the report by clicking the scan name.
+         1.Open the report by clicking the scan name.
    
-      2.Sort vulnerabilities Severity
+         2.Sort vulnerabilities Severity
 ![image alt](https://github.com/AlizadaUlvi/Cybersecurity-lab4/blob/de090274da6953a17f93bdce321fb00385256985/step2/step%202%20a.jpg)
 ![image alt](https://github.com/AlizadaUlvi/Cybersecurity-lab4/blob/aa75ac2de26ea395e636b716e04c31970b98df20/step2/step%202%20a%20(2).jpg)   
+There are 2 Medium and 11 Info vulnerabilities
