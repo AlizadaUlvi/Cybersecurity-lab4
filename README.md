@@ -21,7 +21,10 @@
 ![image alt](https://github.com/AlizadaUlvi/Cybersecurity-lab4/blob/de090274da6953a17f93bdce321fb00385256985/step2/step%202%20a.jpg)
 ![image alt](https://github.com/AlizadaUlvi/Cybersecurity-lab4/blob/aa75ac2de26ea395e636b716e04c31970b98df20/step2/step%202%20a%20(2).jpg)   
 There are 2 Medium and 11 Info vulnerabilities
+       
        b.Drill down into a few vulnerabilities:
+          
           1.Description,CVE ID,Exploitability,Suggested Fix
-![image alt]()
+          
+![image alt](https://github.com/AlizadaUlvi/Cybersecurity-lab4/blob/cb0080d7c7f4d25f6b1cc5df31b4597648f4e6c3/step2/step%202%20b.jpg)
 ![image alt]()
