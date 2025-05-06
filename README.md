@@ -41,7 +41,11 @@ Affected port (445/tcp) and host IP (192.168.0.117)
 Exploit availability marked as true
 
 In picture 2:
+
 Severity: Medium
+
 CVSS Score: 5.0
+
 Host Affected: 192.168.0.117
+
 Port: UDP 5353
