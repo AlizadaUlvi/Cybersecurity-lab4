@@ -1,4 +1,4 @@
-# Cybersecurity-lab4
+![image](https://github.com/user-attachments/assets/621b14ed-987c-4cb0-9c0b-d8d9df11c097)# Cybersecurity-lab4
 1. Basic Vulnerability Scan using Nessus
 
    1.Start Nessus
@@ -21,3 +21,7 @@
 ![image alt](https://github.com/AlizadaUlvi/Cybersecurity-lab4/blob/de090274da6953a17f93bdce321fb00385256985/step2/step%202%20a.jpg)
 ![image alt](https://github.com/AlizadaUlvi/Cybersecurity-lab4/blob/aa75ac2de26ea395e636b716e04c31970b98df20/step2/step%202%20a%20(2).jpg)   
 There are 2 Medium and 11 Info vulnerabilities
+       b.Drill down into a few vulnerabilities:
+          1.Description,CVE ID,Exploitability,Suggested Fix
+![image alt]()
+![image alt]()
