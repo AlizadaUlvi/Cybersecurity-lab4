@@ -13,7 +13,7 @@
 
 2.Analyze Scan Results
 
-   a.Review vulnerabilities
+      a.Review vulnerabilities
       
       1.Open the report by clicking the scan name.
    
