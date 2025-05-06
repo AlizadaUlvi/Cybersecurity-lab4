@@ -13,6 +13,7 @@
 2.Analyze Scan Results
 
   a.Review vulnerabilities
+      
       1.Open the report by clicking the scan name.
    
       2.Sort vulnerabilities Severity
