@@ -28,3 +28,14 @@ There are 2 Medium and 11 Info vulnerabilities
           
 ![image alt](https://github.com/AlizadaUlvi/Cybersecurity-lab4/blob/cb0080d7c7f4d25f6b1cc5df31b4597648f4e6c3/step2/step%202%20b.jpg)
 ![image alt](https://github.com/AlizadaUlvi/Cybersecurity-lab4/blob/4b38d7a6e2ba952b05fb3c9452f749ec374bd9ba/step2/step%202%20b%20(2).jpg)
+For example in picture 1:
+
+A medium-severity vulnerability ("SMB Signing not required")
+
+The description, solution, and plugin details
+
+The CVSS score (5.3) and risk information
+
+Affected port (445/tcp) and host IP (192.168.0.117)
+
+Exploit availability marked as true
