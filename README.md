@@ -27,4 +27,4 @@ There are 2 Medium and 11 Info vulnerabilities
           1.Description,CVE ID,Exploitability,Suggested Fix
           
 ![image alt](https://github.com/AlizadaUlvi/Cybersecurity-lab4/blob/cb0080d7c7f4d25f6b1cc5df31b4597648f4e6c3/step2/step%202%20b.jpg)
-![image alt]()
+![image alt](https://github.com/AlizadaUlvi/Cybersecurity-lab4/blob/4b38d7a6e2ba952b05fb3c9452f749ec374bd9ba/step2/step%202%20b%20(2).jpg)
