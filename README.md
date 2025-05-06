@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/621b14ed-987c-4cb0-9c0b-d8d9df11c097)# Cybersecurity-lab4
+# Cybersecurity-lab4
 1. Basic Vulnerability Scan using Nessus
 
    1.Start Nessus
