@@ -12,7 +12,7 @@
 ![image alt](https://github.com/AlizadaUlvi/Cybersecurity-lab4/blob/09bc0acee2ef3c452692cc92bf95ab5b4193f119/step1/step1%20(4).jpg)
 2.Analyze Scan Results
 
-  a.Review vulnerabilities
+   a.Review vulnerabilities
       
       1.Open the report by clicking the scan name.
    
