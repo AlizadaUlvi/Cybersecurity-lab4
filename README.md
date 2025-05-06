@@ -5,5 +5,6 @@
    
    2.Create a new scan:we create new scan folder and we use "Basic Network Scan":Scans > New Scan > Basic Network Scan 
 ![image alt](https://github.com/AlizadaUlvi/Cybersecurity-lab4/blob/3b3098f10efd47d30cd10f9a387ef0f3d411674f/step1/step1.jpg)
+![image alt](https://github.com/AlizadaUlvi/Cybersecurity-lab4/blob/cc1608c4f2f8cf3a36aa6c09494ea98022181938/step1/step1%20(2).jpg)
 ![image alt]()
 
