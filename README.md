@@ -42,9 +42,6 @@ Exploit availability marked as true
 
 In picture 2:
 Severity: Medium
-
 CVSS Score: 5.0
-
 Host Affected: 192.168.0.117
-
 Port: UDP 5353
